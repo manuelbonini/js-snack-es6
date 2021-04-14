@@ -33,7 +33,7 @@ let piuLeggera;
 for (var i = 0; i < arrayBici.length; i++) {
     var thisBici = arrayBici[i];
     arrayPeso[i] = thisBici.peso;
-};
+}
 // console.log(arrayPeso);
 
 
